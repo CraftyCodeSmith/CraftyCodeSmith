@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/59267154" alt="Damandeep Singh" width="150" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/111175962" alt="Damandeep Singh" width="150" style="border-radius: 50%;">
   <h1>Hi, I'm Damandeep Singh 👋</h1>
   <p>Software Developer | Specializing in Enterprise Architecture, Authentication, and Scalable Web Applications</p>
 </div>
