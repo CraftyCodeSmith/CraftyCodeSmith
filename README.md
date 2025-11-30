@@ -56,7 +56,7 @@ My expertise lies in building robust backend systems with complex business logic
 | **Mobile** | +91-8295672741 |
 
 ---
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=craftycodesmith&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Damandeep's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=craftycodesmith&theme=vue-dark&hide_border=true" alt="GitHub Streak"/>
-</div>
+</div> -->
